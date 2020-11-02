@@ -1,0 +1,17 @@
+.heading, .outputdata{
+  float: right;
+}
+.outputdata{
+  text-align: center;
+}
+.inputdata{
+  text-align: right;
+}
+.delete{
+  background: #B58900 linear-gradient(180deg, #c09b26, #B58900) repeat-x;!important;
+}
+.input-date{
+  float: right;
+
+  width: 45%;
+}
